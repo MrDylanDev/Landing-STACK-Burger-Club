@@ -11,7 +11,7 @@ Landing page moderna y de alto impacto para **STACK! Burger Club**, una marca de
 </p>
 
 <p align="center">
-  <a href="public/assets/demo-video.mp4" download>
+  <a href="https://github.com/MrDylanDev/Landing-STACK-Burger-Club/raw/master/public/assets/demo-video.mp4" download="demo-video.mp4">
     <strong>Descargar video completo (MP4)</strong>
   </a>
 </p>
