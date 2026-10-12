@@ -4,6 +4,20 @@ Landing page moderna y de alto impacto para **STACK! Burger Club**, una marca de
 
 ---
 
+## Demo en video
+
+<p align="center">
+  <img src="public/assets/preview.gif" alt="STACK! Burger Club Demo Preview" width="650" />
+</p>
+
+<p align="center">
+  <a href="public/assets/demo-video.mp4" download>
+    <strong>Descargar video completo (MP4)</strong>
+  </a>
+</p>
+
+---
+
 ## Caracteristicas principales
 
 - **Hero interactivo:** Integracion de video de fondo con superposiciones de contraste y llamado a la accion directo.
@@ -29,6 +43,9 @@ Landing page moderna y de alto impacto para **STACK! Burger Club**, una marca de
 ```text
 Landing-Hamburger/
 ├── public/
+│   ├── assets/
+│   │   ├── preview.gif        # Gif demostrativo para documentacion
+│   │   └── demo-video.mp4     # Video completo descargable
 │   └── hero-burger.mp4        # Video de fondo del hero
 ├── src/
 │   ├── components/            # Componentes modulares

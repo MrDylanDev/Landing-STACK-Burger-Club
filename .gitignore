@@ -25,5 +25,6 @@ dist-ssr
 
 # Media & Temp
 *.mp4
+!public/**/*.mp4
 !public/*.mp4
 .atl
